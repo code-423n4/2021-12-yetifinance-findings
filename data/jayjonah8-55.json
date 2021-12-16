@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "3",
+  "title": "Constructor does not ensure that addresses are not the same ",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/55"
+}
