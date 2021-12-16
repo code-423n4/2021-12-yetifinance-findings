@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "jayjonah8",
+  "address": "0x75aAfefc48D23C65F49603491630308DcBd468f5",
+  "risk": "2",
+  "title": "_safeJoeTransfer doesn't refund users JOE incase of rounding error",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/61"
+}
