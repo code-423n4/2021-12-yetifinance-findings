@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "SolidityScan",
+  "address": "0xa84394e3006b1b15A816eC059f895dCf6493b429",
+  "risk": "1",
+  "title": "Use of Large Number Literals",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/64"
+}
