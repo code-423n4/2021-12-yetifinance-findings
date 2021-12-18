@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "Jujic",
+  "address": "0x6E1DA38F9d9D87ce228234a570D992D4DB294fA1",
+  "risk": "G",
+  "title": "A variable is being assigned its default value which is unnecessary.",
+  "issueId": 87,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/87"
+}
