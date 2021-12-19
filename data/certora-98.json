@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "certora",
+  "address": "0x5C368D355C3F46bD0aD21C04e405DC7798cbFE7E",
+  "risk": "2",
+  "title": "withdraw YetiTokens using approve() and frontrunning",
+  "issueId": 98,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/98"
+}
