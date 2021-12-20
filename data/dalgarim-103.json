@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "dalgarim",
+  "address": "0x13b75E274Acb0eb9cEd75FcF7eA9AA28E5C7aa42",
+  "risk": "G",
+  "title": "Checking zero address on msg.sender is impractical",
+  "issueId": 103,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/103"
+}
