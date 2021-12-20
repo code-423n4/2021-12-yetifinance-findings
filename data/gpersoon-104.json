@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "gpersoon",
+  "address": "gpersoon.eth",
+  "risk": "2",
+  "title": "Check for duplicate collateral in withdrawColl()",
+  "issueId": 104,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/104"
+}
