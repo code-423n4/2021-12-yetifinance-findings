@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "csanuragjain",
+  "address": "0xd295584135829D89427674B72560222B06E08a15",
+  "risk": "2",
+  "title": "Target pool does not get updated due to receiveCollateral not being called",
+  "issueId": 145,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/145"
+}
