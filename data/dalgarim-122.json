@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "dalgarim",
+  "address": "0x13b75E274Acb0eb9cEd75FcF7eA9AA28E5C7aa42",
+  "risk": "3",
+  "title": "sYETI Token mint function has no access control.",
+  "issueId": 122,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/122"
+}
