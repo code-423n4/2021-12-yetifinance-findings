@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "Dravee",
+  "address": "0x319DCd0306908Ce08Ffa6F5e5b6B6a4ff8CCB9DE",
+  "risk": "G",
+  "title": "!= 0 costs less gass compared to > 0 for unsigned integer inside pure or view functions",
+  "issueId": 173,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/173"
+}
