@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "broccolirob",
+  "address": "0x5233aF283E7C359a1011Dc0ff480298E90c8CFd6",
+  "risk": "3",
+  "title": "No Price Oracle Support for LP and Interest-bearing Tokens",
+  "issueId": 302,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/302"
+}
