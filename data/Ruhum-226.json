@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "1",
+  "title": "Use a two-step process when assigning control over a contract to a different address",
+  "issueId": 226,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/226"
+}
