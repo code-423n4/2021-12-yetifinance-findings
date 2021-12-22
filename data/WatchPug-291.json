@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "3",
+  "title": "`_redeemCaller` should not obtain rights to future rewards for the `WJLP` they redeemed",
+  "issueId": 291,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/291"
+}
