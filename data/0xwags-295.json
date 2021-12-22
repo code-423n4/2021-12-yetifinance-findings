@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "0xwags",
+  "address": "0x426DC9dCB3C0d6A283268B4bb51AeC48CEB18854",
+  "risk": "2",
+  "title": "_openTroveInternal()  within openTrove function on line 275 (BorrowOperations.sol) has an error in accounting logic that will affect important calculations such as vars.YusdFee et al",
+  "issueId": 295,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/295"
+}
