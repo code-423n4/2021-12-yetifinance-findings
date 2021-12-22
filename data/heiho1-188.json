@@ -1,0 +1,9 @@
+{
+  "contest": "Yeti Finance contest",
+  "handle": "heiho1",
+  "address": "0x6347E3470d953dAA37A885FF1F2fb158e4427f73",
+  "risk": "1",
+  "title": "contracts/TroveManagerRedemptions.sol is missing inheritance",
+  "issueId": 188,
+  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/188"
+}
