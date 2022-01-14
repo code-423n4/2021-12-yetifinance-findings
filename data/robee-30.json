@@ -1,9 +1,0 @@
-{
-  "contest": "Yeti Finance contest",
-  "handle": "robee",
-  "address": "0x8b8f9A972B19A26287b28162e49787a1f3ec5A32",
-  "risk": "G",
-  "title": "Use bytes32 instead of string to save gas whenever possible",
-  "issueId": 30,
-  "issueUrl": "https://github.com/code-423n4/2021-12-yetifinance-findings/issues/30"
-}
